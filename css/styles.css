@@ -1,0 +1,42 @@
+#container-form{
+    margin-top: 10vh;
+    margin-left: 20px;
+    border: 1px groove;
+    display: inline-block;
+}
+.campos-form{
+    width: 300px;
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+#descripcion{
+    height: 220px;
+}
+#btnsubmit{
+    margin-top: 15px;
+    margin-left: 36px;
+    border: none;
+    background: #2196f3;
+    color: white;
+    height: 40px;
+    width: 250px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+#container-items{
+    margin-left: 100px;
+    margin-top: 10vh;
+}
+#containerGeneral{
+    display: flex;
+}
+.divItems{
+    border: 1px groove;
+    width: 500px;
+    height: 100px;
+    margin-top: 10px;
+}
